@@ -1,7 +1,7 @@
 .class{
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: 18px;
-color: black;
+color: #777777;
 }
 
 
@@ -44,7 +44,9 @@ color: black;
 }
 
 #article{
-    background-color: #777;
+    background-color: #ebebeb;
+    position: relative;
+    bottom: 10px;
 }
 
 #aside{
@@ -54,10 +56,9 @@ color: black;
     box-sizing:border-box;
     padding: 20px;
     padding: 130px;
-    border: 40px white;
     width: 405px; 
     text-align: center;
-    background-color:#777;
+    background-color:#ebebeb;
 }
 
 #footer{
